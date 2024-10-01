@@ -1,3 +1,4 @@
 python:alpine3.19
 apache/rocketmq:5.3.0
 zlmediakit/zlmediakit:master
+ubuntu:20.04
