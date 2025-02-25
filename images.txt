@@ -4,3 +4,4 @@ zlmediakit/zlmediakit:master
 ubuntu:20.04
 mongo:latest
 minio/minio:latest
+percona/percona-xtradb-cluster-operator:1.16.1
