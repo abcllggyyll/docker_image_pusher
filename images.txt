@@ -5,3 +5,4 @@ ubuntu:20.04
 mongo:latest
 minio/minio:latest
 percona/percona-xtradb-cluster-operator:1.16.1
+percona/percona-xtradb-cluster:8.0.39-30.1
