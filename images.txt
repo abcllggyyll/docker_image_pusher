@@ -17,4 +17,3 @@ nginx:latest
 ubuntu/squid:latest
 redis:6-alpine
 postgres:15-alpine
-ubuntu/squid:latest
