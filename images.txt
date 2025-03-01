@@ -16,3 +16,4 @@ langgenius/dify-plugin-daemon:0.0.3-local
 nginx:latest
 ubuntu/squid:latest
 redis:6-alpine
+postgres:15-alpine
