@@ -37,4 +37,4 @@ docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 qwenllm/qwenvl:2.5-cu121
 mysql:8.0.32
-redis:7.0.12
+redis:7.2.5
