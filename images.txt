@@ -38,3 +38,4 @@ downloads.unstructured.io/unstructured-io/unstructured-api:latest
 qwenllm/qwenvl:2.5-cu121
 mysql:8.0.32
 redis:7.2.5
+eclipse-temurin:21-jre
